@@ -7,7 +7,7 @@ I am a fullstack web developer and designer. Building Web and Native Andriod App
 
 ## Skills And Experience
 <ol>
- <li><img src="https://github.com/basitmir2020/basitmir2020/blob/master/html-removebg-preview.png"/> HTML5</li>
+ <li><img src="https://github.com/basitmir2020/basitmir2020/blob/master/html-removebg-preview.png" width="20"/> HTML5</li>
  <li>CSS3</li>
  <li>JS</li>
  <li>PHP</li>
