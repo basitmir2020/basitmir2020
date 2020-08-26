@@ -1,3 +1,5 @@
+<img src="https://github.com/basitmir2020/basitmir2020/blob/master/banner-728x90.5f46498639dd8.jpg"/>
+
 # Hi, I'm Basit Mir 👋 
 
 I am a fullstack web developer and designer 
