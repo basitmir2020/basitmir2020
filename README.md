@@ -11,9 +11,11 @@ I am a fullstack web developer and designer. Building Web and Native Andriod App
  <li>CSS3</li>
  <li>JS</li>
  <li>PHP</li>
+ <li>AJAX</li>
  <li>JSP</li>
- <li>DJANGO</li>
+ <li>ASP .NET cORE</li>
  <li>Node Js</li>
+ <li>MySQL</li>
 </ol>
 
 
