@@ -13,7 +13,7 @@ I am a fullstack web developer and designer. Building Web and Native Andriod App
  <li>PHP</li>
  <li>AJAX</li>
  <li>JSP</li>
- <li>ASP .NET cORE</li>
+ <li>ASP.NET CORE</li>
  <li>Node Js</li>
  <li>MySQL</li>
 </ol>
