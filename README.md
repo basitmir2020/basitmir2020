@@ -1,26 +1,56 @@
-<img src="https://github.com/basitmir2020/basitmir2020/blob/master/banner-728x90.5f46498639dd8.jpg"/>
+<div align="center">
+  <img src="banner-728x90.5f46498639dd8.jpg" alt="Basit Mir Banner" width="100%" />
+</div>
 
-# Hi, I'm Basit Mir 👋 
+<h1 align="center">Hi there, I'm Basit Mir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I am a fullstack web developer and designer. Building Web and Native Andriod Applications 
+<p align="center">
+  <b>Fullstack Web Developer & Designer</b><br>
+  Building Web and Native Android Applications 🚀
+</p>
 
+<p align="center">
+  <a href="https://github.com/basitmir2020">
+    <img src="https://img.shields.io/github/followers/basitmir2020?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.instagram.com/basit_yousuf_mir/">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=social&logo=instagram" alt="Instagram" />
+  </a>
+</p>
 
-## Skills And Experience
-<ol>
- <li>HTML5</li>
- <li>CSS3</li>
- <li>JS</li>
- <li>PHP</li>
- <li>AJAX</li>
- <li>JSP</li>
- <li>ASP.NET CORE</li>
- <li>Node Js</li>
- <li>MySQL</li>
-</ol>
+<hr>
 
+### 🛠️ Skills & Technologies
 
-## Social Links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/basitmir2020)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/basit_yousuf_mir/)  
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AJAX-007396?style=for-the-badge&logo=jquery&logoColor=white" alt="AJAX" />
+  <br>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
+  <br>
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
+<hr>
 
- 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Basit's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basitmir2020&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
