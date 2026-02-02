@@ -43,13 +43,18 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  
-![Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basitmir2020&theme=radical" alt="GitHub Profile Summary" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basitmir2020&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basitmir2020&theme=radical" alt="Top Languages by Repo" />
+</p>
 
 <hr>
 
