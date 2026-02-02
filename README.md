@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner-728x90.5f46498639dd8.jpg" alt="Basit Mir Banner" width="100%" />
-</div>
-
 <h1 align="center">Hi there, I'm Basit Mir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
@@ -42,10 +38,6 @@
 <hr>
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basitmir2020&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basitmir2020&theme=radical" alt="GitHub Profile Summary" />
