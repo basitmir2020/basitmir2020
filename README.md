@@ -44,13 +44,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Basit's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+![Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=basitmir2020&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=basitmir2020&label=Profile%20Views&color=0e75b6&style=flat)
+
 </p>
