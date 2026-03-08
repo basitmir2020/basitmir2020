@@ -21,7 +21,8 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_habits: yes
-          plugin_habit_charts_type: classic
+          plugin_habits_charts_type: classic
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
