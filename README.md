@@ -85,7 +85,48 @@
 
 ---
 
+### 🌟 Featured Projects
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/basitmir2020/Weekly_Timer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=basitmir2020&repo=Weekly_Timer&theme=transparent&hide_border=true" alt="Weekly Timer Repo" />
+    </a>
+    <a href="https://github.com/basitmir2020">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=basitmir2020&repo=basitmir2020&theme=transparent&hide_border=true" alt="Main Repository" />
+    </a>
+  </p>
+  <p><i>Check out more of my work over at my <a href="https://github.com/basitmir2020?tab=repositories">repositories page</a>!</i></p>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📊 Advanced Metrics & Insights
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/master/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+---
+
 ### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/basitmir2020">
+    <img src="https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/basitmir2020">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
