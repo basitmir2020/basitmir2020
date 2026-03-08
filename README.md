@@ -8,8 +8,7 @@
 </h1>
 
 <div align="center">
-  <p><b>Fullstack Web Developer & Designer</b></p>
-  <p><i>Building High-Performance Web and Cross-Platform Android Applications 🚀</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+%26+Designer;Building+High-Performance+Web+Apps;Cross-Platform+Mobile+Dev+with+.NET+MAUI" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -59,6 +58,15 @@
 #### 📱 Mobile
 [![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/)
 
+#### 🎨 Design & Creative
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/)
+
+#### ☁️ DevOps & Cloud
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
 #### 🗄️ Database
 [![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -72,7 +80,6 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 </div>
 
@@ -81,11 +88,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basitmir2020&theme=radical&hide_border=true" alt="Basit Mir Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basitmir2020&theme=tokyonight&hide_border=true" alt="Basit Mir Activity Graph" width="100%" />
 </p>
 
 ---
