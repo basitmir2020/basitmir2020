@@ -104,7 +104,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
 </div>
 
 ---
@@ -112,25 +112,16 @@
 ### 📊 Advanced Metrics & Insights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/master/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/master/github-metrics.svg?v=2" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/basitmir2020">
-    <img src="https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/basitmir2020">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=basitmir2020&theme=tokyonight&hide_border=true" alt="Basit Mir Activity Graph" width="100%" />
