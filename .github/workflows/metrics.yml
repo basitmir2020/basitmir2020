@@ -1,8 +1,11 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Every day
+  schedule:
+    - cron: "0 0 * * *" # Every day
   workflow_dispatch:
-  push: {branches: ["master"]}
+  push:
+    branches:
+      - master
 
 jobs:
   github-metrics:
