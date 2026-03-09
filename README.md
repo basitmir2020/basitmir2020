@@ -2,13 +2,10 @@
   <img src="./github_profile_banner.png" width="100%" alt="Basit Yousuf Mir Banner" />
 </div>
 
-<h1 align="center">
-  Hi there, I'm <a href="https://github.com/basitmir2020">Basit Yousuf Mir</a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
-</h1>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+%26+Designer;Building+High-Performance+Web+Apps;Cross-Platform+Mobile+Dev+with+.NET+MAUI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+%26+Designer;Building+High-Performance+Web+Apps;Backend+Development+with+.Net+Core" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -25,14 +22,14 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on building **scalable full-stack applications** and **cross-platform mobile apps**.
-- 🌱 I’m currently learning advanced ASP.NET Core and **.NET MAUI** for high-performance mobile development.
-- 💬 Ask me about **PHP, JavaScript, C# (.NET), or .NET MAUI**.
-- 📫 How to reach me: `work.basityousufmir@gmail.com`
+- 🔭 I’m currently building **high-performance backend systems** and **scalable APIs** with **.Net Core**.
+- 💻 Expert in crafting **robust full-stack applications** with a focus on clean architecture.
+- 🌱 Deepening my expertise in **Cloud Native Technologies** and **Distributed Systems**.
+- 💬 Ask me about **Software Architecture, PHP/C# development, or Backend Optimization**.
+- 🎯 Goal: To build seamless digital experiences that solve real-world problems.
+- 📫 Reach out: `work.basityousufmir@gmail.com`
 
 ---
-
-### 🛠️ Skills & Technologies
 
 <div align="left">
 
@@ -82,6 +79,18 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
 </div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basitmir2020&theme=tokyonight&hide_border=true" alt="Basit Mir Activity Graph" width="100%" />
+</p>
 
 ---
 
