@@ -17,12 +17,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building **high-performance backend systems** and **scalable APIs** with **.Net Core**.
-- 💻 Expert in crafting **robust full-stack applications** with a focus on clean architecture.
-- 🌱 Deepening my expertise in **Cloud Native Technologies** and **Distributed Systems**.
-- 💬 Ask me about **Software Architecture, PHP/C# development, or Backend Optimization**.
-- 🎯 Goal: To build seamless digital experiences that solve real-world problems.
-- 📫 Reach out: `work.basityousufmir@gmail.com`
+- 🔭 **Current Focus**: Architecting high-availability **Backend Systems** and enterprise-grade **APIs** using **.Net Core**.
+- 💻 **Core Expertise**: Expert in **Clean Architecture**, **Microservices**, and building robust **Full-Stack solutions** that scale.
+- 🌱 **Continuous Learning**: Deep-diving into **Cloud-Native ecosystems**, **Distributed Systems**, and **DevOps automation**.
+- 💬 **Ask Me About**: Software Design Patterns, Performance Optimization, and scalable **C# / .Net** infrastructures.
+- 🎯 **Professional Goal**: Crafting high-impact digital solutions that bridge the gap between complex requirements and elegant code.
+- 📫 **Collaboration**: Let's build something great → `work.basityousufmir@gmail.com`
 
 ---
 
@@ -44,6 +44,7 @@
 [![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
 [![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
 [![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
+[![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://xunit.net/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
@@ -75,8 +76,13 @@
 
 ### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basitmir2020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Basit Mir Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitmir2020&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
