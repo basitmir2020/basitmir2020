@@ -76,13 +76,18 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basitmir2020&theme=tokyonight" alt="Basit Mir Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basitmir2020&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basitmir2020&theme=tokyonight" height="190" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basitmir2020&theme=tokyonight" height="190" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 <p align="center">
