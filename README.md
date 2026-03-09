@@ -77,22 +77,27 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basitmir2020&theme=tokyonight" height="190" />
+  <table border="0" width="100%">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basitmir2020&theme=tokyonight" width="100%" />
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basitmir2020&theme=tokyonight" height="190" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basitmir2020&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+    <tr border="0">
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+    <tr border="0">
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=basitmir2020&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir2020&theme=tokyonight&hide_border=true" width="100%" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basitmir2020&theme=tokyonight&hide_border=true" alt="Basit Mir Activity Graph" width="100%" />
-</p>
 
 ---
 
