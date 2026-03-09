@@ -47,10 +47,14 @@
 #### 📚 Frontend Libraries
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
-#### ⚙️ Backend
+#### ⚙️ Backend & Architecture
+[![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
+[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
+[![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
+[![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
 #### 📱 Mobile
 [![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/)
