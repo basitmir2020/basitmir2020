@@ -104,7 +104,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/output/github-contribution-grid-snake-dark.svg?v=3" alt="Snake animation" />
 </div>
 
 ---
@@ -112,7 +112,7 @@
 ### 📊 Advanced Metrics & Insights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/master/github-metrics.svg?v=2" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/basitmir2020/basitmir2020/master/github-metrics.svg?v=3" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
